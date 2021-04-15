@@ -2,4 +2,4 @@ DevByToO
 - konsisten membuat kode setiap hari
 - membuat indonesia clan again
 - struktur materi dasar
-- Mebuat Python Machine Learning
+

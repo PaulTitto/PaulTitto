@@ -1,26 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T01:18:07.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GrrlBh_5I-SwoplQC7AU" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T01:21:55.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oTViXfXIrvGBgbloimre" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1755" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="501" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="8kPDNWPXKYryqerwsrZI-0" value="AgentTiket" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="830" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8kPDNWPXKYryqerwsrZI-1" value="AgentTiket" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xot_1x96dI5BE0viAHVN-0" value="AgentTiket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xot_1x96dI5BE0viAHVN-3" value="AgentTiket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1440" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xot_1x96dI5BE0viAHVN-6" value="AgentTiket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1850" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1880" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xot_1x96dI5BE0viAHVN-7" value="AgentTiket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1420" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1450" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xot_1x96dI5BE0viAHVN-8" value="Npwp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xot_1x96dI5BE0viAHVN-9" value="Alamat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xot_1x96dI5BE0viAHVN-10" value="NamaAgent" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xot_1x96dI5BE0viAHVN-11" value="KodeAgent" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="550" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

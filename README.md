@@ -14,10 +14,9 @@
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="[contributions.svg](https://user-images.githubusercontent.com/55125872/200218020-117f75e1-943c-4af7-b1dd-b3ffc46f2320.svg)"></a>
-
+<!-- <a href=#><img src="[contributions.svg](https://user-images.githubusercontent.com/55125872/200218020-117f75e1-943c-4af7-b1dd-b3ffc46f2320.svg)"></a> -->
+![contributions](https://user-images.githubusercontent.com/55125872/200218020-117f75e1-943c-4af7-b1dd-b3ffc46f2320.svg)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PaulTitto/count.svg" />
 </p>
-<!-- ![contributions](https://user-images.githubusercontent.com/55125872/200218020-117f75e1-943c-4af7-b1dd-b3ffc46f2320.svg) -->

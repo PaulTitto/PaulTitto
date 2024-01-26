@@ -24,6 +24,8 @@
   <img src="https://profile-counter.glitch.me/PaulTitto/count.svg" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angellee177&langs_count=10&layout=compact)](https://github.com/PaulTitto/PaulTitto)
+<br />
 
 ### **Follow me on Social Media:**
 

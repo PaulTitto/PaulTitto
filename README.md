@@ -31,8 +31,9 @@ I aspire to become a Chief Technology Officer (Software engineer), focusing on M
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-- **Languages**: JavaScript, Python, Java, SQL, Golang, PHP, Kotlin, Dark
-- **Web Frameworks/Libraries**: Node.js, Express.js, Flask, Fiber-GO, Echo-Go, Gin-Go, Laravel, Ktor
+- **Languages**: JavaScript, Python, Java, SQL, Golang, PHP, Kotlin, Dart
+- **Web Backend Frameworks/Libraries**: Node.js, Express.js, Flask, Fiber-GO, Echo-Go, Gin-Go, Laravel, Ktor
+- **Web Frontend Frameworks/Libraries**: Vue.js
 - **Mobile App Frameworks/Libraries**: Ionic, Flutter, Jetpack Compose
 - **Databases**: PostgreSQL, MySQL, Redis, MonggoDB
 - **Tools**: GitHub, Docker, Postman, Kubernetes,

@@ -19,6 +19,40 @@ I aspire to become a Chief Technology Officer (Software engineer), focusing on M
 
 💬 Ask me about backend development, databases, mobile development and software architecture.
 
+<hr>
+
+## **🛠 Mobile Tech Architecture**
+
+### 📌 **Frameworks & Libraries**
+- 🛠 **Flutter** – Cross-platform app development  
+- 🎨 **Jetpack Compose** – Modern Android UI development  
+
+### 🏛 **Architecture & Core Principles**
+- 🏗 **Clean Architecture** – Layered approach, Separation of Concerns, Use Cases  
+- 🏗 **Modularization** – Scalable codebase, Feature modularity  
+- 🚀 **Dynamic Feature Modules** – Efficient feature loading, APK size reduction  
+
+### ⚡ **Reactive Programming**
+- 🔄 **RXKotlin** – ReactiveX for Kotlin  
+- 🌊 **Coroutine Flow** – Kotlin's native reactive streams for async programming  
+
+### 🔧 **Dependency Injection**
+- 🧩 **Koin** – Lightweight Dependency Injection for Kotlin  
+
+### 🔄 **Build & Deployment**
+- ⚙️ **Continuous Integration** – Automated builds, testing, and deployment  
+
+### 🔐 **Security & Optimization**
+- 🔒 **Obfuscation with ProGuard** – Code shrinking, security enhancement  
+
+### 📊 **Monitoring & Analytics**
+- 📉 **Firebase Crashlytics** – Real-time crash reporting & analytics  
+
+### 🎨 **UI & Animation**
+- ✨ **Lottie** – Smooth vector animations for enhanced UX  
+
+---
+
 ### Current skill development ###
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -35,6 +69,7 @@ I aspire to become a Chief Technology Officer (Software engineer), focusing on M
 - **Web Backend Frameworks/Libraries**: Node.js, Express.js, Flask, Fiber-GO, Echo-Go, Gin-Go, Laravel, Ktor
 - **Web Frontend Frameworks/Libraries**: Vue.js
 - **Mobile App Frameworks/Libraries**: Ionic, Flutter, Jetpack Compose
+
 - **Databases**: PostgreSQL, MySQL, Redis, MonggoDB
 - **Tools**: GitHub, Docker, Postman, Kubernetes,
 - **APIs**: gRPC, RESTApi, GraphQL

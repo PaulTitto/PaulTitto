@@ -2,78 +2,76 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/paultitto/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/haititto/)
+Welcome to my GitHub profile! I am a passionate **Data Engineer** with a keen interest in building scalable data pipelines, optimizing storage architectures, and enabling data-driven decision-making.
 
-Welcome to my GitHub profile! I am a passionate software developer with a keen interest in building scalable and efficient applications. 
+## **Aspiring CTO with a Data-Driven Vision** ##
 
-## **Falling in Love to be Chief Technology Officer** ##
+I aspire to become a **Chief Technology Officer**, focusing on Data Infrastructure and Scalable Architecture to drive innovation. What I really love is being a bridge builder between complex data and actionable insights. Translating raw data requirements between stakeholders and engineering teams, then presenting robust data solutions back to the business.
 
-I aspire to become a Chief Technology Officer (Software engineer), focusing on Mobile and Web Architecture to creating innovative and user-centric products. what I really love is being a bridge builder between people and ideas. Translating concepts or requirements between customers and developers, then presenting those fleshed out ideas back to the customer.It is my long term goal to be able to work remotely from anywhere in the globe so I can build, or rebuild, communities around the world that have been hurt or destroyed by disasters.
+It is my long-term goal to be able to work remotely from anywhere in the globe so I can build, or rebuild, communities around the world that have been hurt or destroyed by disasters using the power of technology and information.
 
 ### **About Me** ###
 
-🌱 I’m currently learning and working with modern web and mobile technologies.
+🌱 I’m currently learning and working with **Big Data technologies, ETL Pipelines, and Data Warehousing**.
 
-💼 I’m currently studiying as a Informatics Education Student at Universitas Sebelas Maret.
+💼 I’m currently studying as an Informatics Education Student at Universitas Sebelas Maret.
 
 📫 How to reach me: paulustitto555@student.uns.ac.id
 
-💬 Ask me about backend development, databases, mobile development and software architecture.
+💬 Ask me about **Data Engineering, SQL optimization, Backend API for Data, and Cloud Architecture.**
 
 <hr>
 
-## **🛠 Mobile Tech Architecture**
+## **🏗 Data Engineering & Infrastructure**
 
-### 📌 **Frameworks & Libraries**
-- 🛠 **Flutter** – Cross-platform app development  
-- 🎨 **Jetpack Compose** – Modern Android UI development  
+### 🐍 **Data Processing & Orchestration**
+- 🛠 **Python (Pandas, NumPy)** – Data manipulation and analysis
+- 🔄 **Workflow Orchestration** – Scheduling and monitoring ETL jobs (e.g., Airflow, Prefect concepts)
+- ⚡ **Spark/PySpark** – Distributed data processing
 
-### 🏛 **Architecture & Core Principles**
-- 🏗 **Clean Architecture** – Layered approach, Separation of Concerns, Use Cases  
-- 🏗 **Modularization** – Scalable codebase, Feature modularity  
-- 🚀 **Dynamic Feature Modules** – Efficient feature loading, APK size reduction  
+### 🏛 **Architecture & Data Modeling**
+- 🏗 **ETL/ELT Pipelines** – Designing robust data extraction, transformation, and loading processes
+- 📊 **Data Modeling** – ERD Design, Normalization, Star & Snowflake Schemas
+- 🧹 **Data Quality** – Ensuring data integrity, consistency, and reliability
 
-### ⚡ **Reactive Programming**
-- 🔄 **RXKotlin** – ReactiveX for Kotlin  
-- 🌊 **Coroutine Flow** – Kotlin's native reactive streams for async programming  
+### ⚡ **High-Performance Computing**
+- 🚀 **Go (Golang) & Java** – Building high-concurrency data services and backend systems
+- 🌊 **Stream Processing** – Handling real-time data ingestion concepts
 
-### 🔧 **Dependency Injection**
-- 🧩 **Koin** – Lightweight Dependency Injection for Kotlin  
+### 🔧 **Containerization & Environment**
+- 🐳 **Docker** – Containerizing data applications and databases for reproducibility
+- ☸️ **Kubernetes** – Orchestrating scalable data workloads
 
-### 🔄 **Build & Deployment**
-- ⚙️ **Continuous Integration** – Automated builds, testing, and deployment  
+### 🔄 **DataOps & Deployment**
+- ⚙️ **CI/CD** – Automated testing and deployment for data pipelines
+- 🔍 **Monitoring** – Logging and alerting for pipeline health
 
 ### 🔐 **Security & Optimization**
-- 🔒 **Obfuscation with ProGuard** – Code shrinking, security enhancement  
-
-### 📊 **Monitoring & Analytics**
-- 📉 **Firebase Crashlytics** – Real-time crash reporting & analytics  
-
-### 🎨 **UI & Animation**
-- ✨ **Lottie** – Smooth vector animations for enhanced UX  
+- 🔒 **Data Governance** – Implementing role-based access control and data security standards
+- ⚡ **Query Optimization** – Tuning SQL queries for performance and cost-efficiency
 
 ---
 
-### Current skill development ###
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### Current Skill Development ###
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-- **Languages**: JavaScript, Python, Java, SQL, Golang, PHP, Kotlin, Dart
-- **Web Backend Frameworks/Libraries**: Node.js, Express.js, Flask, Fiber-GO, Echo-Go, Gin-Go, Laravel, Ktor
-- **Web Frontend Frameworks/Libraries**: Vue.js
-- **Mobile App Frameworks/Libraries**: Ionic, Flutter, Jetpack Compose
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-- **Databases**: PostgreSQL, MySQL, Redis, MonggoDB
-- **Tools**: GitHub, Docker, Postman, Kubernetes,
-- **APIs**: gRPC, RESTApi, GraphQL
-
+- **Core Languages**: Python, SQL, Java, Golang
+- **Data Stores**: PostgreSQL, MySQL, Redis, MongoDB
+- **Backend & APIs**: Flask, FastAPI, Fiber-GO, Echo-Go, Node.js (Express)
+- **Infrastructure & Tools**: Docker, Kubernetes, Git, Postman
+- **Data Concepts**: RESTful APIs, gRPC, ETL, Data Warehousing
+  
 <p><img src="https://github-readme-stats.vercel.app/api?username=PaulTitto&show_icons=true&theme=nightowl&locale=en" alt="PaulTitto" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=PaulTitto&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 
